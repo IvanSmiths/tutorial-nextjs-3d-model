@@ -14,3 +14,8 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.model {
+  height: 100%;
+  width: 100%;
+}
